@@ -1,0 +1,49 @@
+.registrar h1 {
+  color: #32264c;
+  margin-top: 30px;
+}
+
+.registrar p {
+  font-size: 1.2em;
+  text-align: center;
+  letter-spacing: normal;
+  color: #aaa;
+  margin: 1em 0;
+}
+
+.containerRegistrar {
+  display: flex;
+  flex-flow: column wrap;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.containerRegistrar > label {
+  text-align: left;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 20px 0px;
+}
+
+.containerRegistrar input {
+  width: 800px;
+}
+
+.containerRegistrar > label > input {
+  margin-top: 10px;
+  height: 10px;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  font-size: 1em;
+  box-shadow: none;
+}
+
+.containerRegistrar .error {
+  background-color: rgba(224, 68, 59, 0.729);
+  color: rgba(186, 23, 23, 0.815);
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+  border: 1px solid rgb(186, 23, 23);
+  padding: 5px;
+}

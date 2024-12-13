@@ -1,0 +1,49 @@
+{
+  "celulares": [
+    {
+      "id": "1",
+      "smartphone": "Galaxy s8",
+      "imagem": "https://spennytechnologies.com/wp-content/uploads/2019/11/samsung-galaxy-s8-1.png",
+      "fabricando": "Não",
+      "resumo": "O Samsung Galaxy S8, lançado em março de 2017, marcou um avanço significativo no design e na tecnologia de smartphones. Ele introduziu o conceito de tela Infinity Display, com bordas curvas e quase sem molduras, revolucionando a estética dos dispositivos móveis.",
+      "tela": "Super AMOLED de 5,8 polegadas (2960 x 1440 pixels), com a tecnologia Infinity Display, bordas curvas e proporção 18,5:9.",
+      "processador": "Exynos 8895 (global) ou Snapdragon 835 (EUA e China), ambos com alto desempenho.",
+      "memoriaRam": "4 GB.",
+      "armazenamento": "64 GB (expansível via microSD até 256 GB).",
+      "sistema": "Android 7.0 (Nougat), atualizado até Android 9 (Pie) com a interface One UI.",
+      "cameraTraseira": " 12 MP (Dual Pixel), abertura f/1.7, estabilização óptica de imagem (OIS) e gravação em 4K.",
+      "cameraFrontal": "8 MP, abertura f/1.7, com foco automático (uma novidade para selfies na época).",
+      "bateria": "3.000 mAh."
+    },
+    {
+      "id": "4",
+      "smartphone": "Galaxy s10+",
+      "imagem": "https://static.salidzini.lv/item_image.jpg?w=180&h=180&c=1e8&d=https%3A%2F%2Feasyphone.lv%2Fwp-content%2Fuploads%2F2020%2F07%2Fmky3josv-900.jpg",
+      "fabricando": "Não",
+      "resumo": "O Samsung Galaxy S10 Plus, lançado em fevereiro de 2019, foi um dos modelos premium da linha Galaxy S10, comemorativa de 10 anos da série Galaxy S. Este modelo destacou-se por suas inovações em design, desempenho e recursos, sendo amplamente elogiado no mercado de smartphones.",
+      "tela": "Tela Dynamic AMOLED de 6,4 polegadas com resolução Quad HD+ e bordas curvas.",
+      "processador": "Processador Exynos 9820 (global) ou Snapdragon 855 (EUA e China).",
+      "memoriaRam": "12 GB",
+      "armazenamento": "128 GB até 1 TB, expansível via microSD.",
+      "sistema": "Android 9 Pie",
+      "cameraTraseira": "Três sensores traseiros: 12 MP (principal, abertura variável f/1.5–f/2.4). 12 MP (telefoto com zoom óptico de 2x). 16 MP (ultrawide).",
+      "cameraFrontal": "Duas câmeras frontais: 10 MP (principal). 8 MP (sensor de profundidade).",
+      "bateria": "Capacidade de 4.100 mAh, com carregamento rápido com fio (15W), sem fio (15W) e suporte ao Wireless PowerShare, que permite carregar outros dispositivos."
+    },
+    {
+      "id": "7515",
+      "smartphone": "Galaxy s24 Ultra",
+      "imagem": "https://mobila.me/wa-data/public/shop/products/07/10/1007/images/6842/6842.650.png",
+      "fabricando": "Sim",
+      "resumo": "O Galaxy S24 Ultra conquistou sucesso pelo design premium, câmeras avançadas, desempenho com Snapdragon 8 Gen 3 e a utilidade da S Pen integrada. A tela de alta qualidade e a bateria potente reforçaram sua posição como um dos melhores flagships de 2024.",
+      "tela": "Tipo: Dynamic AMOLED 2X. Tamanho: 6,8 polegadas. Resolução: QHD+ (1440 x 3120 pixels).",
+      "processador": "Qualcomm Snapdragon 8 Gen 3 para dispositivos móveis (5 nm), usado globalmente.",
+      "memoriaRAM": "12 GB.",
+      "armazenamento": "256 GB, 512 GB ou 1 TB (UFS 4.0, sem suporte para microSD).",
+      "sistema": "Android 14, com interface personalizada One UI 6.1.",
+      "cameraTraseira": "Principal: 200 MP (f/1.7, OIS, Super Quad Pixel AF). Teleobjetiva 1: 10 MP (f/2.4, zoom óptico de 3x, OIS). Teleobjetiva 2: 50 MP (f/2.4, zoom óptico contínuo de até 10x). Ultrawide: 12 MP (f/2.2, ângulo de visão de 120º, Super Steady Video).",
+      "cameraFrontal": "12 MP (f/2.2, autofoco duplo, 4K a 60 fps).",
+      "bateria": "5.000 mAh."
+    }
+  ]
+}

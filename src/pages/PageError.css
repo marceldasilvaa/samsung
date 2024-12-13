@@ -1,0 +1,15 @@
+.containerErro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.containerErro > h1 {
+  color: #071B8C;
+}
+
+.containerErro > p {
+  text-align: center;
+  font-weight: bold;
+}

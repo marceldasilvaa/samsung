@@ -1,0 +1,46 @@
+h1 {
+  margin: 20px 0px;
+  color: #071b8c;
+}
+
+.celular {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: start;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.celular > img {
+  margin: 0 auto;
+}
+
+.celular > .nomeCelular {
+  margin: 0 auto;
+}
+
+p {
+  text-align: left;
+  letter-spacing: 1px;
+  text-indent: 0px;
+  margin-top: 10px;
+}
+
+.configs {
+  margin: 0 auto;
+  padding-top: 5px;
+}
+
+.deletarProduto {
+  display: block;
+  margin: auto;
+  margin-top: 1em;
+  border-radius: 20px;
+  background: black;
+  padding: 10px 15px;
+}
+
+.deletarProduto:hover {
+  color: #aaa;
+  transition: ease .5s;
+}

@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+}
+
+.containerGordo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.containerGordo > p {
+  text-align: center;
+  font-weight: bold;
+}
+
+.containerGordo > .rodape {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin-top: 50px;
+  text-align: center;
+}
